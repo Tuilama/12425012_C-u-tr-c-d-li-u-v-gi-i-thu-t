@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BTTH01-C1/1.0.0": {
+        "runtime": {
+          "BTTH01-C1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTTH01-C1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

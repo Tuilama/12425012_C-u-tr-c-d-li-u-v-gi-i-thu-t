@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\Desktop\\BTTH01-C1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32687D73-CCFA-4667-98C8-60C460D98B34}|..\\Ch\u01B0\u01A1ng 2\\Ch\u01B0\u01A1ng 2.csproj|c:\\users\\admin\\desktop\\ch\u01B0\u01A1ng 2\\b\u00E0i 1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE3156F8-1ECC-49A7-BDFA-401BA3208E13}|..\\Ch\u01B0\u01A1ng 3\\Ch\u01B0\u01A1ng 3.csproj|c:\\users\\admin\\desktop\\ch\u01B0\u01A1ng 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Ch\u01B0\u01A1ng 3\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Ch\u01B0\u01A1ng 3\\Program.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Ch\u01B0\u01A1ng 3\\Program.cs",
+              "RelativeToolTip": "..\\Ch\u01B0\u01A1ng 3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T04:16:41.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "B\u00E0i 1.cs",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\Desktop\\Ch\u01B0\u01A1ng 2\\B\u00E0i 1.cs",
+              "RelativeDocumentMoniker": "..\\Ch\u01B0\u01A1ng 2\\B\u00E0i 1.cs",
+              "ToolTip": "C:\\Users\\ADMIN\\Desktop\\Ch\u01B0\u01A1ng 2\\B\u00E0i 1.cs",
+              "RelativeToolTip": "..\\Ch\u01B0\u01A1ng 2\\B\u00E0i 1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T04:13:48.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

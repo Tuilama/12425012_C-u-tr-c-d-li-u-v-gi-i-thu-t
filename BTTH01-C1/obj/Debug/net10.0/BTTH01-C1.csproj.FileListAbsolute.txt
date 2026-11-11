@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\BTTH01-C1\obj\Debug\net10.0\BTTH01-C1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\BTTH01-C1\obj\Debug\net10.0\BTTH01-C1.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\BTTH01-C1\obj\Debug\net10.0\BTTH01-C1.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\BTTH01-C1\obj\Debug\net10.0\BTTH01-C1.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\BTTH01-C1\bin\Debug\net10.0\BTTH01-C1.exe
+C:\Users\ADMIN\Desktop\BTTH01-C1\bin\Debug\net10.0\BTTH01-C1.deps.json
+C:\Users\ADMIN\Desktop\BTTH01-C1\bin\Debug\net10.0\BTTH01-C1.runtimeconfig.json
+C:\Users\ADMIN\Desktop\BTTH01-C1\bin\Debug\net10.0\BTTH01-C1.dll
+C:\Users\ADMIN\Desktop\BTTH01-C1\bin\Debug\net10.0\BTTH01-C1.pdb
+C:\Users\ADMIN\Desktop\BTTH01-C1\obj\Debug\net10.0\BTTH01-C1.dll
+C:\Users\ADMIN\Desktop\BTTH01-C1\obj\Debug\net10.0\refint\BTTH01-C1.dll
+C:\Users\ADMIN\Desktop\BTTH01-C1\obj\Debug\net10.0\BTTH01-C1.pdb
+C:\Users\ADMIN\Desktop\BTTH01-C1\obj\Debug\net10.0\BTTH01-C1.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\BTTH01-C1\obj\Debug\net10.0\ref\BTTH01-C1.dll
+C:\Users\ADMIN\Desktop\BTTH01-C1\obj\Debug\net10.0\BTTH01-C1.csproj.Up2Date
